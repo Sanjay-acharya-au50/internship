@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(221, 229, 237);
+    height: 100%;
+}
+/* 
+h1{
+    font-weight: 500;
+    font-size: 150px;
+}
+
+.running-text {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: runningText 10s linear infinite;
+  }
+
+  .blinking-text {
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  } */
+
+  #internContent{
+    font-size: 27px;
+  }
+  #box{
+    background-color: rgb(164, 233, 233);
+    border-radius: 7px;
+  }
